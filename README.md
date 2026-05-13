@@ -12,9 +12,10 @@ My solutions to LeetCode database problems.
 | 183 | Customers Who Never Order | Easy | [SQL](easy/183_Customers_Who_Never_Order.sql) |
 | 596 | Classes More Than 5 Students | Easy | [SQL](easy/596_Classes_More_Than_5_Students.sql) |
 | 620 | Not Boring Movies | Easy | [SQL](easy/620_Not_Boring_Movies.sql) |
+| 1050 | Actors and Directors Who Cooperated At Least Three Times | Easy | [SQL](easy/1050_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql) |
 ## Progress
 
-- Total solved: 6
-- Easy: 6
+- Total solved: 7
+- Easy: 7
 - Medium: 0
 - Hard: 0
