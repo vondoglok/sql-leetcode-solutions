@@ -3,7 +3,8 @@
 --
 -- Table: ActorDirector (actor_id, director_id, timestamp)
 --
--- Task: Write a solution to find all the pairs (actor_id, director_id) where the actor has cooperated with the director at least three times.
+-- Task: Write a solution to find all the pairs (actor_id, director_id) 
+-- where the actor has cooperated with the director at least three times.
 --
 -- Runtime: 395ms
 SELECT actor_id, director_id
