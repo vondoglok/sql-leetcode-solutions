@@ -15,9 +15,10 @@ My solutions to LeetCode database problems.
 | 1050 | Actors and Directors Who Cooperated At Least Three Times | Easy | [SQL](easy/1050_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql) |
 | 176 | Second Highest Salary | Medium | [SQL](medium/176_Second_Highest_Salary.sql) |
 | 178 | Rank Scores | Medium | [SQL](medium/178_Rank_Scores.sql) |
+| 177 | Nth Highest Salary | Medium | [SQL](medium/177_Nth_Highest_Salary.sql) |
 ## Progress
 
-- Total solved: 9
+- Total solved: 10
 - Easy: 7
-- Medium: 2
+- Medium: 3
 - Hard: 0
