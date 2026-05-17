@@ -12,6 +12,7 @@ My solutions to LeetCode database problems.
 | 183 | Customers Who Never Order | Easy | [SQL](easy/183_Customers_Who_Never_Order.sql) |
 | 596 | Classes More Than 5 Students | Easy | [SQL](easy/596_Classes_More_Than_5_Students.sql) |
 | 620 | Not Boring Movies | Easy | [SQL](easy/620_Not_Boring_Movies.sql) |
+| 197 | Rising Temperature | Easy | [SQL](easy/197_Rising_Temperature.sql) |
 | 1050 | Actors and Directors Who Cooperated At Least Three Times | Easy | [SQL](easy/1050_Actors_and_Directors_Who_Cooperated_At_Least_Three_Times.sql) |
 | 176 | Second Highest Salary | Medium | [SQL](medium/176_Second_Highest_Salary.sql) |
 | 178 | Rank Scores | Medium | [SQL](medium/178_Rank_Scores.sql) |
@@ -19,7 +20,7 @@ My solutions to LeetCode database problems.
 | 185 | Department Top Three Salary | Hard | [SQL](hard/185_Department_Top_Three_Salary.sql) |
 ## Progress
 
-- Total solved: 11
-- Easy: 7
+- Total solved: 12
+- Easy: 8
 - Medium: 3
 - Hard: 1
