@@ -18,7 +18,7 @@ My solutions to LeetCode database problems.
 | 176 | Second Highest Salary | Medium | [SQL](medium/176_Second_Highest_Salary.sql) |
 | 178 | Rank Scores | Medium | [SQL](medium/178_Rank_Scores.sql) |
 | 177 | Nth Highest Salary | Medium | [SQL](medium/177_Nth_Highest_Salary.sql) |
-| 185 | Department Top Three Salary | Hard | [SQL](hard/185_Department_Top_Three_Salary.sql) |
+| 185 | Department Top Three Salaries | Hard | [SQL](hard/185_Department_Top_Three_Salaries.sql) |
 ## Progress
 
 - Total solved: 13
