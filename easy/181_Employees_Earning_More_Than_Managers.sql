@@ -2,7 +2,6 @@
 -- Difficulty: Easy
 --
 -- Table: Employee (id, name, salary, managerId)
--- managerId ссылается на id того же Employee
 --
 -- Task: Find employees who earn more than their managers.
 --
