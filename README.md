@@ -19,9 +19,10 @@ My solutions to LeetCode database problems.
 | 178 | Rank Scores | Medium | [SQL](medium/178_Rank_Scores.sql) |
 | 177 | Nth Highest Salary | Medium | [SQL](medium/177_Nth_Highest_Salary.sql) |
 | 185 | Department Top Three Salaries | Hard | [SQL](hard/185_Department_Top_Three_Salaries.sql) |
+| 601 | Human Traffic of Stadium | Hard | [SQL](hard/601_Human_Traffic_of_Stadium.sql) |
 ## Progress
 
-- Total solved: 13
+- Total solved: 14
 - Easy: 9
 - Medium: 3
-- Hard: 1
+- Hard: 2
