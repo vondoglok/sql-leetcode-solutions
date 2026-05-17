@@ -4,7 +4,7 @@
 -- Tables: Stadium (id, visit_date, people)
 --
 -- Task: Write a solution to display the records with three or more rows with consecutive id's, 
--- and the number of people is greater than or equal to 100 for each.
+--       and the number of people is greater than or equal to 100 for each.
 --
 -- Runtime: 368 ms
 WITH Flagged AS (
