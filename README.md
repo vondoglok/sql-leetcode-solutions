@@ -20,9 +20,10 @@ My solutions to LeetCode database problems.
 | 177 | Nth Highest Salary | Medium | [SQL](medium/177_Nth_Highest_Salary.sql) |
 | 185 | Department Top Three Salaries | Hard | [SQL](hard/185_Department_Top_Three_Salaries.sql) |
 | 601 | Human Traffic of Stadium | Hard | [SQL](hard/601_Human_Traffic_of_Stadium.sql) |
+| 262 | Trips and Users | Hard | [SQL](hard/262_Trips_and_Users.sql) |
 ## Progress
 
-- Total solved: 14
+- Total solved: 15
 - Easy: 9
 - Medium: 3
-- Hard: 2
+- Hard: 3
