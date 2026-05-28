@@ -7,6 +7,11 @@
 -- Task: Write a solution to find the cancellation rate of requests with unbanned users (both client and driver must not be banned)
 --       each day between "2013-10-01" and "2013-10-03" with at least one trip. Round Cancellation Rate to two decimal points.
 --
+-- Approach:
+-- 1. Double JOIN to Users table (aliased as d=driver, c=client) to filter banned users
+-- 2. SUM(status != 'completed') uses MySQL boolean-to-integer: returns 1 for cancelled, 0 for completed
+-- 3. Divide by COUNT(*) to get cancellation rate, ROUND to 2 decimal places
+--
 -- Runtime: 626 ms
 SELECT t.Request_at AS Day,
   ROUND(SUM(t.Status != "completed") / COUNT(*), 2) AS 'Cancellation Rate'
