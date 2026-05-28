@@ -8,4 +8,4 @@
 -- Runtime: 302ms
 SELECT score, DENSE_RANK() OVER (ORDER BY score DESC) AS 'rank'
 FROM Scores
-ORDER BY 'rank';
+ORDER BY rank DESC;
