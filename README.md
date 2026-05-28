@@ -19,12 +19,13 @@ My solutions to LeetCode database problems.
 | 178 | Rank Scores | Medium | [SQL](medium/178_Rank_Scores.sql) |
 | 177 | Nth Highest Salary | Medium | [SQL](medium/177_Nth_Highest_Salary.sql) |
 | 180 | Consecutive Numbers | Medium | [SQL](medium/180_Consecutive_Numbers.sql) |
+| 550 | Game Play Analysis IV | Medium | [SQL](medium/550_Game_Play_Analysis_IV.sql) |
 | 185 | Department Top Three Salaries | Hard | [SQL](hard/185_Department_Top_Three_Salaries.sql) |
 | 601 | Human Traffic of Stadium | Hard | [SQL](hard/601_Human_Traffic_of_Stadium.sql) |
 | 262 | Trips and Users | Hard | [SQL](hard/262_Trips_and_Users.sql) |
 ## Progress
 
-- Total solved: 16
+- Total solved: 17
 - Easy: 9
-- Medium: 4
+- Medium: 5
 - Hard: 3
