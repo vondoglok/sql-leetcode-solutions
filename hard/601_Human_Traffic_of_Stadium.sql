@@ -6,6 +6,12 @@
 -- Task: Write a solution to display the records with three or more rows with consecutive id's, 
 --       and the number of people is greater than or equal to 100 for each.
 --
+-- Approach:
+-- 1. Filter rows with people >= 100
+-- 2. Key trick: id - ROW_NUMBER() produces the same value for consecutive ids
+--    (any gap in sequence shifts the result, creating a new group)
+-- 3. COUNT(*) OVER (PARTITION BY grp) measures each group size, filter >= 3
+--
 -- Runtime: 368 ms
 WITH Flagged AS (
     SELECT id, visit_date, people,
