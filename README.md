@@ -7,8 +7,8 @@ Focus areas: window functions, CTEs, analytical queries, and real-world business
 MySQL · Window Functions · CTEs · JOINs · Conditional Aggregation
 
 ## Progress
-- Total solved: 17
-- Easy: 9 | Medium: 5 | Hard: 3
+- Total solved: 18
+- Easy: 9 | Medium: 6 | Hard: 3
 
 ## Highlights
 | # | Title | Difficulty | Solution | Key Technique |
