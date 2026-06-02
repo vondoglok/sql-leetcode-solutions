@@ -7,8 +7,8 @@ Focus areas: window functions, CTEs, analytical queries, and real-world business
 MySQL · Window Functions · CTEs · JOINs · Conditional Aggregation
 
 ## Progress
-- Total solved: 19
-- Easy: 9 | Medium: 7 | Hard: 3
+- Total solved: 20
+- Easy: 9 | Medium: 8 | Hard: 3
 
 ## Highlights
 | # | Title | Difficulty | Solution | Key Technique |
@@ -19,6 +19,7 @@ MySQL · Window Functions · CTEs · JOINs · Conditional Aggregation
 | 180 | Consecutive Numbers | Medium | [SQL](medium/180_Consecutive_Numbers.sql) | LAG() x2 for sequence detection |
 | 550 | Game Play Analysis IV | Medium | [SQL](medium/550_Game_Play_Analysis_IV.sql) | MIN() window + DATE_ADD |
 | 1321 | Restaurant Growth | Medium | [SQL](medium/1321_Restaurant_Growth.sql) | 7-day rolling SUM/AVG with ROWS BETWEEN |
+| 1341 | Movie Rating | Medium | [SQL](medium/1341_Movie_Rating.sql) | UNION ALL + dual aggregation |
 
 ## Structure
 ```
